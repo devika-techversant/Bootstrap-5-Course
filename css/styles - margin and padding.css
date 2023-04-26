@@ -1,0 +1,17 @@
+div {
+	height: 50px;
+	width: 50px;
+	background-color: lightblue;
+}
+
+span {
+	background-color: hotpink;
+	font-size: 15px;
+}
+
+.box {
+	background-color: yellow;
+	border: 2px solid black;
+	width: auto;
+	height: auto;
+}
