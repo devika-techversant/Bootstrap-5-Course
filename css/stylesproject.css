@@ -1,0 +1,17 @@
+.carousel-item img {
+	height: 550px;
+}
+
+.card {
+	height: 300px;
+	width: 200px;
+}
+.card p {
+	font-size: 12px;
+}
+
+.card img {
+	width: 196px;
+	height: 180px;
+
+}
